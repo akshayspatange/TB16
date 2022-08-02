@@ -10,6 +10,14 @@ public class demo {
 	{
 		System.out.println("hub");	
 	}
+		public void m3()
+	{
+		System.out.println("hii1");	
+	}
+	public void m4()
+	{
+		System.out.println("hub2");	
+	}
 	public static void main(String[] args) {
 		
 	
